@@ -186,5 +186,20 @@
 		"requiredTech": "Telecommunications",
 		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "[+1] Sight", "Can carry [3] [Missile] units", "Never appears as a Barbarian unit"],
 		"attackSound": "torpedo"
+  },
+  {
+    "name": "Kursk",
+    "uniqueTo": "Eurasian Union",
+    "replaces": "Submarine",
+    "unitType": "Submarine",
+		"movement": 8,
+		"strength": 50,
+		"range": 2,
+		"rangedStrength": 85,
+		"cost": 250,
+		"requiredTech": "refrigeration",
+		"uniques": ["[+80]% Strength <when attacking>", "Can only attack [Water] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "torpedo"
   }
 ]
+
