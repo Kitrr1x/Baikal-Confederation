@@ -197,7 +197,7 @@
 		"range": 2,
 		"rangedStrength": 85,
 		"cost": 250,
-		"requiredTech": "refrigeration",
+		"requiredTech": "Refrigeration",
 		"uniques": ["[+80]% Strength <when attacking>", "Can only attack [Water] tiles", "Never appears as a Barbarian unit"],
 		"attackSound": "torpedo"
   },
@@ -210,7 +210,7 @@
 		"strength": 60,
 		"cost": 300,
 		"requiredTech": "replaceable parts",
-		"upgradesTo": "infantry",
+		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
   },
@@ -225,7 +225,7 @@
 		"range": 8,
 		"interceptRange": 8,
 		"cost": 355,
-		"requiredTech": "flight",
+		"requiredTech": "Flight",
 		"requiredResource": "Oil",
 		"upgradesTo": "Fighter",
 		"uniques": ["[+150]% Strength <vs [Bomber] units>"],
