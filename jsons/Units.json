@@ -209,7 +209,7 @@
 		"movement": 3,
 		"strength": 60,
 		"cost": 300,
-		"requiredTech": "replaceable parts",
+		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
