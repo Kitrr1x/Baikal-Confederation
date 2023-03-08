@@ -1,2 +1,2 @@
-Pan-Slavic Union
-Lead Russia, Vladimir Putin!
+
+Lead Pan-Slavic Union, Vladimir Putin!
