@@ -204,7 +204,7 @@
   {
     "name": "chernosotenetsy",
     "uniqueTo": "Eurasian Union",
-    "replaces": "great war infantry",
+    "replaces": "Great War Infantry",
     "unitType": "Gunpowder",
 		"movement": 3,
 		"strength": 60,
@@ -217,8 +217,8 @@
   {
     "name": "samolet mozhayskogo",
     "uniqueTo": "Eurasian Union",
-    "replaces": "triplane",
-    "unitType": "triplane",
+    "replaces": "Triplane",
+    "unitType": "Fighter",
 		"movement": 1,
 		"strength": 45,
 		"rangedStrength": 60,
