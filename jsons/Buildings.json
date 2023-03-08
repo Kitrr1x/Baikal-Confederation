@@ -10,7 +10,7 @@
     "uniques": ["Limited to [5] per Civilization","Unsellable","Destroyed when the city is captured","Cannot be purchased"]
   },
   {
-    "name": "Monument to Lenin",
+    "name": "Monument to Nikolai 2",
     "replaces": "Monument",
     "uniqueTo": "Pan-Slavic Union",
     "culture": 5,
