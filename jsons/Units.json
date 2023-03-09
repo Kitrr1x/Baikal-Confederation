@@ -230,6 +230,63 @@
 		"upgradesTo": "Fighter",
 		"uniques": ["[+150]% Strength <vs [Bomber] units>"],
 		"attackSound": "machinegun"
-  }
+  },
+		{
+		"name": "Pulemet Maksima",
+    "uniqueTo": "Pan-Slavic Union",
+    "replaces": "Gatling Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 2,
+		"movement": 3,
+		"strength": 40,
+		"rangedStrength": 30,
+		"cost": 180,
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"attackSound": "machinegun"
+	},
+		{
+		"name": "Degtyarev Machine gun",
+    "uniqueTo": "Pan-Slavic Union",
+    "replaces": "Machine Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 2,
+		"movement": 4,
+		"strength": 70,
+		"rangedStrength": 60,
+		"cost": 250,
+		"requiredTech": "Ballistics",
+		"upgradesTo": "Mechanized Infantry",
+		"attackSound": "machinegun"
+				},
+	{
+		"name": "VDV",
+    "uniqueTo": "Pan-Slavic Union",
+    "replaces": "Paratrooper",
+		"unitType": "Gunpowder",
+		"movement": 5,
+		"strength": 65,
+		"cost": 312,
+		"requiredTech": "Radar",
+		"uniques": ["May Paradrop up to [10] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+			},
+	{
+		"name": "Tsar Bomba"
+    "uniqueTo": "Pan-Slavic Union",
+    "replaces": "Atomic Bomb",
+		"unitType": "Atomic Bomber",
+		"movement": 2,
+		"strength": 1000,
+		"rangedStrength": 150,
+		"range": 10,
+		"cost": 600,
+		"requiredTech": "Nuclear Fission",
+		"requiredResource": "Uranium",
+		"promotions" : ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [1]", "Self-destructs when attacking",
+			"Blast radius [5]"],
+		"attackSound": "nuke"
 ]
 
