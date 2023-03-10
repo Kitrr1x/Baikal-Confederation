@@ -448,6 +448,6 @@
 		"upgradesTo": "Bomber",
 		"obsoleteTech": "Radar",
 		"attackSound": "bombing"
-	},
+	}
 ]
 
