@@ -115,7 +115,7 @@ BuildingIcons/Monument to Nikolai 2
   index: -1
 NationIcons/Дизайн без названия
   rotate: false
-  xy: 1345, 1369
+  xy: 0, 0
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
