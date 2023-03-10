@@ -69,14 +69,6 @@
     "requiredTech": "Scientific Theory",
     "quote": "'В России две беды — дураки и дороги. Списывающий студент — это дурак на дороге к диплому о высшем образовании' - Азат Рахманов, социологический факультет"
   },
-	  {
-    "name": "Monument to demolition dogs",
-    "uniqueTo": "Pan-Slavic Union",
-    "cost": 65,
-    "culture": 5,
-    "requiredTech": "Civil Service",
-    "uniques": ["Destroyed when the city is captured","Cannot be purchased"]
-  },
 	{		
 	        "name": "Sobor",
 		"uniqueTo": "Pan-Slavic Union",
