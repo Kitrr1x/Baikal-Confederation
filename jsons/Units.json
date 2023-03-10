@@ -447,7 +447,7 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Bomber",
 		"obsoleteTech": "Radar",
-		"attackSound": "bombing"
+		"attackSound": "bombing" 
 	}
 ]
 
