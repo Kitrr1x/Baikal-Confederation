@@ -1,7 +1,7 @@
 [
   {
     "name": "Kalibr",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Guided Missile",
     "unitType": "Missile",
 		"movement": 3,
@@ -15,7 +15,7 @@
   },
   {
     "name": "Buratino",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Rocket Artillery",
     "unitType": "Siege",
 		"movement": 4,
@@ -32,7 +32,7 @@
   },
   {
     "name": "S-400",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Mobile SAM",
     "unitType": "Gunpowder",
 		"movement": 4,
@@ -46,7 +46,7 @@
   },
   {
     "name": "T-72",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Tank",
     "unitType": "Armored",
 		"movement": 5,
@@ -60,7 +60,7 @@
   },
   {
     "name": "T-90",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Modern Armor",
     "unitType": "Armored",
 		"movement": 6,
@@ -74,7 +74,7 @@
   },
   {
     "name": "BTR-80",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Infantry",
     "unitType": "Gunpowder",
 		"movement": 3,
@@ -87,7 +87,7 @@
   },
   {
     "name": "Su-25",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Fighter",
     "unitType": "Fighter",
 		"movement": 1,
@@ -104,7 +104,7 @@
   },
   {
     "name": "Su-40",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Jet Fighter",
     "unitType": "Fighter",
 		"movement": 2,
@@ -120,7 +120,7 @@
   },
   {
     "name": "Ka-52",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "unitType": "Helicopter",
 		"movement": 7,
 		"strength": 65,
@@ -133,7 +133,7 @@
   },
   {
     "name": "Admiral Kuznetsov",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Carrier",
     "unitType": "Aircraft Carrier",
 		"movement": 5,
@@ -144,7 +144,7 @@
   },
   {
     "name": "Moskva",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Missile Cruiser",
     "unitType": "Ranged Water",
 		"movement": 7,
@@ -161,7 +161,7 @@
 	},
   {
     "name": "Proekt 956",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Destroyer",
     "unitType": "Melee Water",
 		"movement": 7,
@@ -175,7 +175,7 @@
   },
   {
     "name": "Knaz Vladimir",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Nuclear Submarine",
     "unitType": "Submarine",
 		"movement": 6,
@@ -189,7 +189,7 @@
   },
   {
     "name": "Kursk",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Submarine",
     "unitType": "Submarine",
 		"movement": 8,
@@ -203,7 +203,7 @@
   },
   {
     "name": "Сhernosotenets",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Great War Infantry",
     "unitType": "Gunpowder",
 		"movement": 6,
@@ -214,26 +214,9 @@
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
   },
-  {
-    "name": "Samolet mozhayskogo",
-    "uniqueTo": "Pan-Slavic Union",
-    "replaces": "Triplane",
-    "unitType": "Fighter",
-		"movement": 1,
-		"strength": 45,
-		"rangedStrength": 60,
-		"range": 8,
-		"interceptRange": 8,
-		"cost": 300,
-		"requiredTech": "Flight",
-		"requiredResource": "Oil",
-		"upgradesTo": "Fighter",
-		"uniques": ["[+150]% Strength <vs [Bomber] units>"],
-		"attackSound": "machinegun"
-  },
 		{
 		"name": "Pulemet Maksima",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Gatling Gun",
 		"unitType": "Ranged Gunpowder",
 		"range": 2,
@@ -248,7 +231,7 @@
 	},
 		{
 		"name": "Degtyarev Machine gun",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Machine Gun",
 		"unitType": "Ranged Gunpowder",
 		"range": 2,
@@ -261,51 +244,8 @@
 		"attackSound": "machinegun"
 				},
 	{
-		"name": "VDV",
-    "uniqueTo": "Pan-Slavic Union",
-    "replaces": "Paratrooper",
-		"unitType": "Gunpowder",
-		"movement": 5,
-		"strength": 65,
-		"cost": 312,
-		"requiredTech": "Radar",
-		"uniques": ["May Paradrop up to [10] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
-		"attackSound": "shot"
-			},
-	{
-		"name": "Tsar Bomba"
-    "uniqueTo": "Pan-Slavic Union",
-    "replaces": "Atomic Bomb",
-		"unitType": "Atomic Bomber",
-		"movement": 2,
-		"strength": 1000,
-		"rangedStrength": 150,
-		"range": 10,
-		"cost": 600,
-		"requiredTech": "Nuclear Fission",
-		"promotions" : ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [1]", "Self-destructs when attacking",
-			"Blast radius [5]", "Consumes [5] [Uranium]"],
-		"attackSound": "nuke"
-},
-	{
-		"name": "Tsar cannon",
-    "uniqueTo": "Pan-Slavic Union",
-    "replaces": "Cannon",
-		"unitType": "Siege",
-		"movement": 3,
-		"strength": 50,
-		"rangedStrength": 20,
-		"cost": 250,
-		"requiredTech": "Chemistry",
-		"upgradesTo": "Artillery",
-		"obsoleteTech": "Dynamite",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
-		"attackSound": "cannon"
-	},
-	{
 		"name": "PE-8",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Bomber",
 		"unitType": "Bomber",
 		"movement": 2,
@@ -320,7 +260,7 @@
 	},
 	{
 		"name": "TU-160",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Stealth Bomber",
 		"unitType": "Bomber",
 		"movement": 3,
@@ -334,21 +274,8 @@
 		"attackSound": "bombing"
 	},
 	{
-		"name": "PDSS",
-    "uniqueTo": "Pan-Slavic Union",
-    "replaces": "Marine",
-		"unitType": "Gunpowder",
-		"movement": 4,
-		"strength": 80,
-		"cost": 300,
-		"requiredTech": "Pharmaceuticals",
-		"promotions": ["Amphibious"],
-		"uniques": ["Normal vision when embarked", "Defense bonus when embarked"],
-		"attackSound": "shot"
-	},
-	{
 		"name": "D-1",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Artillery",
 		"unitType": "Siege",
 		"movement": 3,
@@ -363,23 +290,8 @@
 		"attackSound": "artillery"
 	},
 	{
-		"name": "Cossack Cavalry",
-    "uniqueTo": "Pan-Slavic Union",
-    "replaces": "Cavalry",
-		"unitType": "Mounted",
-		"movement": 8,
-		"strength": 50,
-		"cost": 150,
-		"requiredTech": "Military Science",
-		"obsoleteTech": "Combustion",
-		"requiredResource": "Horses",
-		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
-		"attackSound": "horse"
-	},
-	{
 		"name": "Mendeleev tank",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Landship",
 		"unitType": "Armored",
 		"movement": 5,
@@ -393,50 +305,8 @@
 		"attackSound": "tankshot"
 	},
 	{
-		"name": "Strelets",
-    "uniqueTo": "Pan-Slavic Union",
-    "replaces": "Composite Bowman",
-		"unitType": "Archery",
-		"movement": 2,
-		"strength": 7,
-		"rangedStrength": 11,
-		"cost": 75,
-		"requiredTech": "Construction",
-		"obsoleteTech": "Machinery",
-		"upgradesTo": "Crossbowman",
-		"attackSound": "arrow"
-	},
-	{
-		"name": "Swordsman in Russia",
-    "uniqueTo": "Pan-Slavic Union",
-    "replaces": "Longswordsman",
-		"unitType": "Sword",
-		"movement": 3,
-		"strength": 30,
-		"cost": 100,
-		"requiredTech": "Steel",
-		"upgradesTo": "Musketman",
-		"obsoleteTech": "Gunpowder",
-		"requiredResource": "Iron",
-		"attackSound": "metalhit"
-	},
-	{
-		"name": "Spearman in Russia",
-    "uniqueTo": "Pan-Slavic Union",
-    "replaces": "Pikeman",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 16,
-		"cost": 90,
-		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"upgradesTo": "Lancer",
-		"obsoleteTech": "Metallurgy",
-		"attackSound": "metalhit"
-	},
-	{
 		"name": "Ilya Muromets",
-    "uniqueTo": "Pan-Slavic Union",
+    "uniqueTo": "Baikal Confederation",
     "replaces": "Great War Bomber",
 		"unitType": "Bomber",
 		"movement": 2,
