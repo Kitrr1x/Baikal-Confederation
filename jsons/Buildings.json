@@ -205,7 +205,6 @@
 		"cost": 120,
 		"culture": 15,
 		"isNationalWonder": true,
-		"specialistSlots": {"Great Prophet": 3},
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredNearbyImprovedResources": ["Incense", "Wine"],
 		"requiredTech": "Theology"
@@ -216,7 +215,6 @@
 		"cost": 120,
 		"culture": 15,
 		"isNationalWonder": true,
-		"specialistSlots": {"Great Prophet": 3},
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredNearbyImprovedResources": ["Incense", "Wine"],
 		"requiredTech": "Theology"
@@ -227,7 +225,6 @@
 		"cost": 120,
 		"culture": 15,
 		"isNationalWonder": true,
-		"specialistSlots": {"Great Prophet": 3},
 		"specialistSlots": {"Artist": 3},
 		"requiredBuilding": "Opera House",
 		"maintenance": 3,
