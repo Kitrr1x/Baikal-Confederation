@@ -232,7 +232,7 @@
 		"attackSound": "machinegun"
   },
 		{
-		"name": "Cossack Cavalry",
+		"name": "Siberian Cossack cavalry",
     "uniqueTo": "Pan-Slavic Union",
     "replaces": "Cavalry",
 		"unitType": "Mounted",
