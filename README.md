@@ -1,2 +1,1 @@
-
-Lead Pan-Slavic Union!
+Baikal Confederation
