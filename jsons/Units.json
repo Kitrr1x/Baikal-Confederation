@@ -214,6 +214,38 @@
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
   },
+	  {
+    "name": "Samolet mozhayskogo",
+    "uniqueTo": "Baikal Confederation",
+    "replaces": "Triplane",
+    "unitType": "Fighter",
+		"movement": 1,
+		"strength": 45,
+		"rangedStrength": 60,
+		"range": 8,
+		"interceptRange": 8,
+		"cost": 300,
+		"requiredTech": "Flight",
+		"requiredResource": "Oil",
+		"upgradesTo": "Fighter",
+		"uniques": ["[+150]% Strength <vs [Bomber] units>"],
+		"attackSound": "machinegun"
+  },
+		{
+		"name": "Cossack Cavalry",
+    "uniqueTo": "Pan-Slavic Union",
+    "replaces": "Cavalry",
+		"unitType": "Mounted",
+		"movement": 8,
+		"strength": 50,
+		"cost": 150,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
 		{
 		"name": "Pulemet Maksima",
     "uniqueTo": "Baikal Confederation",
