@@ -20,8 +20,8 @@
     "outerColor": [0,170,255],
     "innerColor": [255,255,255],
     "favoredReligion": "Christianity",
-    "uniqueName": "Успешное объединение",
-    "uniques": ["[25]% tile improvement construction time","Starts with [Civil Service]","[30]% [Gold] from Trade Routes"],
+    "uniqueName": "Успешное Восстание",
+    "uniques": ["[55]% tile improvement construction time","Starts with [Civil Service]","[40]% [Gold] from Trade Routes"],
     "cities": ["Иркутск", "Ангарск", "Улан-Удэ", "Чита", "Братск", "Усть-Илимск", "Саянск", "Шелехов", "Черемхово", "Саянск", "Зима", "Байкальск", "Усолье-Сибирское"]
   }
 ]
