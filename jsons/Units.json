@@ -45,7 +45,7 @@
 		"attackSound": "missile"
   },
   {
-    "name": "T-72",
+    "name": "T-62а",
     "uniqueTo": "Baikal Confederation",
     "replaces": "Tank",
     "unitType": "Armored",
@@ -59,7 +59,7 @@
 		"attackSound": "tankshot"
   },
   {
-    "name": "T-90",
+    "name": "T-62ам",
     "uniqueTo": "Baikal Confederation",
     "replaces": "Modern Armor",
     "unitType": "Armored",
@@ -73,7 +73,7 @@
 		"attackSound": "tankshot"
   },
   {
-    "name": "BTR-80",
+    "name": "Infantry with BTR-80",
     "uniqueTo": "Baikal Confederation",
     "replaces": "Infantry",
     "unitType": "Gunpowder",
@@ -351,5 +351,31 @@
 		"upgradesTo": "Bomber",
 		"obsoleteTech": "Radar",
 		"attackSound": "bombing"
+	},
+		{
+		"name": "Infantry with BMP-2",
+	        "uniqueTo": "Baikal Confederation",
+                "replaces": "Mechanized Infantry",
+		"unitType": "Gunpowder",
+		"movement": 6,
+		"strength": 110,
+		"cost": 275,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+		{
+		"name": "Double sided spearman",
+		"uniqueTo": "Baikal Confederation",
+                "replaces": "Pikeman",
+		"unitType": "Sword",
+		"movement": 4,
+		"strength": 25,
+		"cost": 75,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+100]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
 	}
 ]
