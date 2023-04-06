@@ -377,5 +377,53 @@
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Saint Innocent",
+		"uniqueTo": "Baikal Confederation",
+                "replaces": "Great Prophet",
+		"unitType": "Civilian",
+		"uniques": [
+            "Can instantly construct a [Holy site] improvement <by consuming this unit>",
+            "Can [Spread Religion] [5] times",
+			"Removes other religions when spreading religion",
+            "May found a religion",
+            "May enhance a religion",
+			"May enter foreign tiles without open borders", "Great Person - [Faith]",
+			"Unbuildable", "Religious Unit", "Hidden when religion is disabled",
+			"Takes your religion over the one in their birth city"],
+		"movement": 4,
+		"religiousStrength": 1000
+	},
+		{
+		"name": "Vladimir Rassushin",
+		"uniqueTo": "Baikal Confederation",
+                "replaces": "Great Engineer",
+		"unitType": "Civilian",
+		"uniques": ["Can speed up construction of a building",
+            "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
+            "Great Person - [Production]", "Unbuildable", "Uncapturable"],
+		"movement": 4
+	},
+		{
+		"name": "Ivan Khaminov",
+		"uniqueTo": "Baikal Confederation",
+                "replaces": "Great Merchant",
+		"unitType": "Civilian",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [50] Influence",
+            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
+		"movement": 4
+	},
+	{
+		"name": "Yuri Agrafonov",
+		"uniqueTo": "Baikal Confederation",
+                "replaces": "Great Scientist",
+		"unitType": "Civilian",
+		"uniques": [
+            "Can hurry technology research",
+            "Can instantly construct a [Academy] improvement <by consuming this unit>",
+            "Great Person - [Science]", "Unbuildable", "Uncapturable"],
+		"movement": 2
 	}
 ]
